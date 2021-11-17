@@ -244,9 +244,9 @@ typing-extensions = "^3.7.4"
 
 [package.source]
 type = "git"
-url = "https://github.com/lukebfox/nixops-hetznercloud.git"
+url = "https://github.com/exitreturn/nixops-hetznercloud.git"
 reference = "master"
-resolved_reference = "af807da54b4a56c0198b3052523997db5b478d0f"
+resolved_reference = "8d43b2d93666d9a9757335e35da45becc5734e74"
 
 [[package]]
 name = "nixopsvbox"
